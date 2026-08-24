@@ -1,0 +1,6 @@
+{
+  "name": "AuraMax",
+  "description": "Plataforma viral Gen Z de 'farmar aura' com Aura Social Feed (+/- Aura), Aura Disciplina habit-tracker, sistema de Glow de perfil reativo e Leaderboard global.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
